@@ -17,6 +17,12 @@ https://support.oneidentity.com/active-roles/kb/4291332/how-to-configure-federat
 
 https://learn.microsoft.com/en-us/azure/active-directory/external-identities/google-federation
 
+Administravtive Unit
+https://learn.microsoft.com/en-us/azure/active-directory/roles/admin-units-manage
+
+Privilaged IAM
+https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user
+
 
 
 
