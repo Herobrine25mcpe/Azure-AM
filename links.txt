@@ -12,5 +12,8 @@ https://www.systanddeploy.com/2021/01/store-passwords-on-azure-key-vault-and.htm
 Role assignable groups 
 https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-groups-view-azure-portal
 
+Federation IAM
+https://support.oneidentity.com/active-roles/kb/4291332/how-to-configure-federated-authentication-with-azure-ad
+
 
 
