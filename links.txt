@@ -2,3 +2,8 @@ Azure
 
 Saml
 https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/saml-toolkit-tutorial#configure-azure-ad-sso
+
+SSO
+https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/saml-toolkit-tutorial#configure-azure-ad-sso
+
+
