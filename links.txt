@@ -6,4 +6,8 @@ https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/saml-toolkit-
 SSO
 https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/saml-toolkit-tutorial#configure-azure-ad-sso
 
+Key Vault
+https://www.systanddeploy.com/2021/01/store-passwords-on-azure-key-vault-and.html
+
+
 
