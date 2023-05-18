@@ -9,5 +9,8 @@ https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/saml-toolkit-
 Key Vault
 https://www.systanddeploy.com/2021/01/store-passwords-on-azure-key-vault-and.html
 
+Role assignable groups 
+https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-groups-view-azure-portal
+
 
 
