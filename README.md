@@ -1,0 +1,2 @@
+# Azure-AM
+Azure practicals 
