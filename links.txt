@@ -15,5 +15,8 @@ https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-dir
 Federation IAM
 https://support.oneidentity.com/active-roles/kb/4291332/how-to-configure-federated-authentication-with-azure-ad
 
+https://learn.microsoft.com/en-us/azure/active-directory/external-identities/google-federation
+
+
 
 
